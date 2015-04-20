@@ -14,5 +14,9 @@
   },
   "engines": {
     "node": "*"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.24",
+    "request-promise": "^0.4.1"
   }
 }
